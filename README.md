@@ -104,6 +104,3 @@ Fully developed in [BlueJ](https://www.bluej.org/), checkout for more details.
 * _MovieRunnerAverage.java_: Recommendation engines runner with average ratings.
 * _MovieRunnerWithFilter.java_: Recommendation engines runner with filter.
 * _MovieRunnerSimilarRatings.java_: Fully implemented recommendation engines runner.
-
-### License
-BSD
